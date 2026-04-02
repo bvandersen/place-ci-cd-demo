@@ -10,3 +10,4 @@ dist.rbxl
 
 # pycachce
 **/__pycache__
+.claude/settings.local.json
