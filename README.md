@@ -1,5 +1,7 @@
 # Roblox place, sample CI/CD setup
 
+https://github.com/bvandersen/place-ci-cd-demo/actions
+
 > [!WARNING]  
 > This is a sample project intended to demonstrate how the new Open Cloud Luau execution API can be used. It has not been battle tested so creators should proceed with caution when adapting it for their own experiences.
 
