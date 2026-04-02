@@ -36,6 +36,15 @@
           "Position": [0, -9, 0],
           "Size": [512, 20, 2143]
         }
+      },
+      "BluePart": {
+        "$className": "Part",
+        "$properties": {
+          "Anchored": true,
+          "Color": [0.051, 0.412, 0.675],
+          "Position": [0, 6, 0],
+          "Size": [4, 4, 4]
+        }
       }
     },
     "Lighting": {
