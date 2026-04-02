@@ -20,7 +20,7 @@ def upload_place(binary_path, universe_id, place_id, do_publish=False):
     version_type = "Published" if do_publish else "Saved"
     request_headers = {
         "x-api-key": ROBLOX_API_KEY,
-        "Content-Type": "application/xml",
+        "Content-Type": "application/octet-stream",
         "Accept": "application/json",
     }
 
